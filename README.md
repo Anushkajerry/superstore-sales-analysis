@@ -1,5 +1,5 @@
 <div style="background-color:#FFF8E7; padding:20px; border-radius:12px; border:1px solid #FDE68A;">
-  <h1 align="center">🛍️ Superstore Sales Analysis</h1>
+  <h1 align="center"> Superstore Sales Analysis</h1>
   <p align="center">Exploring sales trends, profitability, and business insights using Python and data visualization.</p>
 </div>
 
@@ -16,7 +16,7 @@ In this project, I aimed to answer:
 ---
 
 ### 🧩 Tools & Libraries
-- **Python** 🐍  
+- **Python**   
 - **Pandas** – Data cleaning & analysis  
 - **Matplotlib & Seaborn** – Visualizations  
 - **Jupyter Notebook** – Interactive exploration
@@ -24,34 +24,22 @@ In this project, I aimed to answer:
 ---
 
 ### 🔍 Step-by-Step Process
-1. **Data Cleaning** ✨  
+1. **Data Cleaning**   
    - Converted `Order Date` & `Ship Date` to datetime  
    - Checked for missing values & data type consistency  
 
-2. **Exploratory Data Analysis (EDA)** 📊  
+2. **Exploratory Data Analysis (EDA)**   
    - Summarized sales, profit, and quantity by region, category, and customer  
    - Created **Profit Margin** for better insight  
 
-3. **Data Visualization** 🎨  
+3. **Data Visualization**   
    - Bar plots for sales & profit by region and category  
    - Line plots for monthly and quarterly trends  
 
-4. **Insights & Recommendations** 💡  
+4. **Insights & Recommendations**   
    - West region and Technology category are top performers  
    - Furniture sub-categories need improvement due to low profit  
    - Seasonal trends suggest higher sales in Q4  
-
----
-
-### 📸 Sample Visuals
-<div style="background-color:#E6FFFA; padding:10px; border-radius:10px; border:1px solid #A7F3D0;">
-  <p align="center">Upload your charts here for a beautiful visual summary</p>
-  <p align="center">Example:</p>
-  <p align="center">
-    <img src="images/sales_by_region.png" alt="Sales by Region" width="300"/>  
-    <img src="images/profit_trends.png" alt="Profit Trends" width="300"/>
-  </p>
-</div>
 
 ---
 
@@ -67,5 +55,4 @@ In this project, I aimed to answer:
 **Anushka**  
 📍 Berlin, Germany  
 💼 Aspiring Data Analyst | Data-Driven Decision Maker  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/anushkajain214) | [GitHub](https://github.com/Anushkajerry)
